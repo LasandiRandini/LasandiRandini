@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FrameWorks, Asure courses, AI Technologies.**
 
-- 💬 Ask me about **react, nodejs, ASP.NET*
+- 💬 Ask me about *react, nodejs, ASP.NET*
 
 - 📫 How to reach me **kh.lasandirandini@gmail.com**
 
