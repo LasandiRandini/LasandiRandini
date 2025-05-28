@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Tuition Class Management Systemstem](https://github.com/LasandiRandini/TCS)
 
-- 🌱 I’m currently learning **FrameWorks, Asure courses, AI Technologies.**
+- 🌱 I’m currently learning **FrameWorks, Asure courses, AI,ML.**
 
-- 💬 Ask me about *react, nodejs, ASP.NET*
+- 💬 Ask me about *react, nodejs, Java, springboot,  ASP.NET*
 
 - 📫 How to reach me **kh.lasandirandini@gmail.com**
 
