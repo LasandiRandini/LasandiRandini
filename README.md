@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Tuition Class Management Systemstem](https://github.com/LasandiRandini/Plants_Site)
+- 🔭 I’m currently working on [Plantuo](https://github.com/LasandiRandini/Plants_Site)
 
 - 🌱 I’m currently learning **FrameWorks, Asure courses, AI,ML.**
 
