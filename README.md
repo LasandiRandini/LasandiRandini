@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lasandi Randini</h1>
-<h3 align="center">A passionate full-stack developer skilled in React.js, Node.js, Express, and various other technologies. I also have a keen interest in data science.</h3>
+<h3 align="center">A passionate full-stack developer skilled in React.js, Springboot Node.js, Express, and various other technologies. I also have a keen interest in AI/ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasandirandini&label=Profile%20views&color=0e75b6&style=flat" alt="lasandirandini" /> </p>
 
 
 
-- 🔭 I’m currently working on [Plantuo](https://github.com/LasandiRandini/Plants_Site)
+- 🔭 I’m currently working on [Hotel-Inventory-Mng-Sys](https://github.com/LasandiRandini/Plants_Site)
 
 - 🌱 I’m currently learning **FrameWorks, Asure courses, AI,ML.**
 
